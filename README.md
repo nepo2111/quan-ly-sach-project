@@ -1,4 +1,4 @@
-# Welcome to my first Repository - MathUtil project
+# Welcome to my Repository - Quan Ly Sach Project
 
 ## You will find in this repo:
 
@@ -7,4 +7,4 @@
 * README.md - this file itself - using Markdown language
 
 
-### ⓒ 2020 nep2111 | fb/abc
+### ⓒ 2022 nep2111 | fb/hieunp.2111
